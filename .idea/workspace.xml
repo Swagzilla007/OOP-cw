@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af5a6055-623e-44fa-be71-02be3156573a" name="Changes" comment="backend for now">
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/dto/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/dto/CustomerDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/dto/TicketDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/dto/TicketDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/dto/VendorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/dto/VendorDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/entity/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/entity/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/entity/Vendor.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/entity/Vendor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/TicketPoolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/TicketPoolService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/TicketService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/VendorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/service/VendorService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/util/EventsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/java/org/ticktet_software/cw_20234071/util/TicketType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oop backend/cw_20234071/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +88,7 @@
       <updated>1733380988618</updated>
       <workItem from="1733380989666" duration="519000" />
       <workItem from="1733381516569" duration="947000" />
-      <workItem from="1733382511223" duration="446000" />
+      <workItem from="1733382511223" duration="4639000" />
     </task>
     <task id="LOCAL-00001" summary="backend for now">
       <option name="closed" value="true" />
@@ -111,11 +98,55 @@
       <option name="project" value="LOCAL" />
       <updated>1733381057602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="backend for now">
+      <option name="closed" value="true" />
+      <created>1733383011215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733383011215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="backend for now">
+      <option name="closed" value="true" />
+      <created>1733383223858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733383223858</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="backend for now" />
