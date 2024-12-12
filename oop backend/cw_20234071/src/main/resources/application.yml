@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: cw_20234071
+  datasource:
+    url: jdbc:mysql://localhost:3306/ticketing_system?createDatabaseIfNotExist=true&useTimezone=true&serverTimezone=UTC
+    username: root
+    password: gayathra.c.w.7.26.2002
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: false
+        show_sql: false
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQLDialect
