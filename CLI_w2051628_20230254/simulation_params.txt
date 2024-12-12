@@ -1,0 +1,6 @@
+#Simulation Parameters
+#Thu Dec 12 08:22:10 IST 2024
+maxCapacity=50
+releaseRate=100
+retrievalRate=100
+totalTickets=10
